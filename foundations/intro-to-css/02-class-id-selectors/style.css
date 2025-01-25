@@ -1,0 +1,19 @@
+.im-a-class {
+    background-color: rgb(190, 76, 76);
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+}
+
+#numb2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#numb4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.im-a-id {
+    font-size: 24px;
+}
